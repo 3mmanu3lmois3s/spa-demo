@@ -21,6 +21,7 @@ Puedes ver la aplicación en funcionamiento aquí: [https://3mmanu3lmois3s.githu
 
 ## Estructura del Proyecto
 
+```
 spa-demo/
 ├── docs/ # Archivos compilados para producción (después de ng build)
 ├── src/
@@ -40,6 +41,7 @@ spa-demo/
 ├── package.json # Dependencias del proyecto y scripts
 ├── README.md # Este archivo
 └── tsconfig.json # Configuración de TypeScript
+```
 
 ## Instalación y Ejecución
 
